@@ -14,7 +14,7 @@
 The Prework Study Guide page can be used as an all in one resource for coding notes. There are four sections each containing notes on HTML,CSS,JavaScript, and Git. We can take a look at the console to see JavaScript running. The application with choose a topic from our prework and choose one for us to study first.
 
 ## Deployed
-https://dcavinder.github.io/mod_1_challenge/
+https://dcavinder.github.io/html_code_refactor
 
 ## License
 MIT License
